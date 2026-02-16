@@ -1,5 +1,8 @@
 # 💫 About Me:
-Software Engineering Intern and aspiring Java Backend Developer<br>with hands-on experience in Java, Spring Boot, REST APIs, and<br>MySQL through academic and internship projects. Passionate about<br>learning backend development, building clean APIs, and improving<br>problem-solving skills. Currently focused on growing as a developer<br>by working on real-world projects and strengthening core computer<br>science fundamentals.
+Java Backend Developer | Spring Boot Enthusiast | Building Scalable REST APIs
+Passionate about backend development and problem-solving.
+Currently building real-world projects using Java, Spring Boot, and MySQL.
+Focused on writing clean, efficient, and production-ready code.
 
 
 ## 🌐 Socials:
