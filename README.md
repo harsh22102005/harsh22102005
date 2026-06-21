@@ -1,8 +1,14 @@
-# 💫 About Me:
-Java Backend Developer | Spring Boot Enthusiast | Building Scalable REST APIs
-Passionate about backend development and problem-solving.
-Currently building real-world projects using Java, Spring Boot, and MySQL.
-Focused on writing clean, efficient, and production-ready code.
+# 👋 About Me
+
+☁️ Aspiring Cloud Engineer | AWS Enthusiast | Linux & Networking Learner
+
+I am a final-year B.Tech (Information Technology) student passionate about Cloud Computing, AWS, Linux, Networking, and DevOps.
+
+Currently building hands-on cloud projects using AWS services such as EC2, VPC, IAM, S3, Route 53, Load Balancer, Auto Scaling, and CloudWatch.
+
+I enjoy designing secure, scalable, and highly available cloud infrastructures while continuously learning modern DevOps and Infrastructure as Code practices.
+
+🎯 Goal: To start my career as a Cloud Engineer and build expertise in AWS, DevOps, and Cloud Infrastructure.
 
 
 ## 🌐 Socials:
