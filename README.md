@@ -1,54 +1,21 @@
-# 👋 Hi, I'm Harsh Pratap Singh
+# 👋 About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Aspiring+Cloud+Engineer;AWS+Cloud+Practitioner;Linux+%7C+Networking+%7C+DevOps;Building+Real+World+Cloud+Projects" />
+☁️ Aspiring Cloud Engineer | AWS Enthusiast | Linux & Networking Learner
 
----
+I am a final-year B.Tech (Information Technology) student passionate about Cloud Computing, AWS, Linux, Networking, and DevOps.
 
-## ☁️ About Me
+Currently building hands-on cloud projects using AWS services such as EC2, VPC, IAM, S3, Route 53, Load Balancer, Auto Scaling, and CloudWatch.
 
-🎓 Final Year B.Tech (Information Technology)
+I enjoy designing secure, scalable, and highly available cloud infrastructures while continuously learning modern DevOps and Infrastructure as Code practices.
 
-☁️ Passionate about Cloud Computing & AWS
+🎯 Goal: To start my career as a Cloud Engineer and build expertise in AWS, DevOps, and Cloud Infrastructure.
 
-🐧 Learning Linux, Networking & DevOps
 
-🚀 Building real-world AWS projects
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-pratap-singh-733340314) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Harsh Pratap Singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshpartapsingh2005@gmail.com) 
 
-📚 Currently preparing for AWS Solutions Architect Associate
-
-🎯 Goal: Cloud Engineer at an MNC
-
----
-
-## 🚀 Tech Stack
-
-- AWS
-- Linux
-- Networking
-- Docker
-- Terraform
-- Git & GitHub
-- GitHub Actions
-- Jenkins
-- Bash
-- Python
-- Java
-- MySQL
-
----
-
-## 🏗 Current Projects
-
-✅ AWS Three Tier Architecture
-
-✅ CI/CD Pipeline
-
-✅ Disaster Recovery API
-
-✅ Terraform Infrastructure
-
----
-
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harsh22102005&show_icons=true&theme=tokyonight)
@@ -59,10 +26,17 @@
 
 ---
 
-## 📫 Connect With Me
+[![](https://visitcount.itsvg.in/api?id=harsh22102005&icon=0&color=0)](https://visitcount.itsvg.in)
 
-LinkedIn
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-Email
+<!--
+**harsh22102005/harsh22102005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-GitHub
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
